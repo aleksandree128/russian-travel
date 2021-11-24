@@ -1,11 +1,23 @@
 .photo {
-    margin: auto;
-    max-width: 1184px;
-    max-height: 100%;
-    display: grid;
-    gap: 16px;
-    grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
-    grid-template-rows: repeat(auto-fit, minmax(213px, 1fr));
-    list-style: none;
-    padding: 0;
+  margin: auto;
+}
+
+@media screen and (max-width: 1024px) {
+  .photo {
+    margin-top: 92px;
+    max-width: 928px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .photo {
+    margin-top: 88px;
+    max-width: 720px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .photo {
+    max-width: 288px;
+  }
 }
