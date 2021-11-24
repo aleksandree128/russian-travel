@@ -39,5 +39,9 @@ ALT-H3
 5. normalaze
 
 #### H4  Необходимо добавить JavaScript для полной функциональности сайта  
+<<<<<<< HEAD
 
 ссылка на сайт: https://aleksandree128.github.io/russian-travel/
+=======
+ссылка на сайт: https://aleksandree128.github.io/russian-travel/  
+>>>>>>> dabdf76cdb007724ab459a67f8ddf52da7f741d1
