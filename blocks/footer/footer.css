@@ -2,13 +2,13 @@
   max-width: 1184px;
   display: flex;
   justify-content: space-between;
-  margin: auto;
+  margin: 0 auto 24px;
 }
 
 @media screen and (max-width: 1024px) {
   .footer {
     max-width: 928px;
-
+    margin: 0 auto 22px;
   }
 }
 
