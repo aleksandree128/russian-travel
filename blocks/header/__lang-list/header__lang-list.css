@@ -6,11 +6,3 @@
   margin: 0;
   align-items: center;
 }
-
-/*
-@media screen and (min-width: 320px) and (max-width: 767px) {
-  .header__lang-list {
-    max-width: 22px;
-  }
-}
-*/
