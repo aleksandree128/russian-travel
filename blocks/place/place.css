@@ -16,7 +16,6 @@
   .place {
     margin: 0 auto 80px;
     max-width: 928px;
-    max-height: 100%;
     grid-template-columns: 440px 1fr;
     grid-gap: 48px 32px;
   }
@@ -26,7 +25,6 @@
   .place {
     margin-bottom: 73px;
     max-width: 720px;
-    max-height: 100%;
     grid-template-columns: 340px 1fr;
     grid-gap: 48px 28px;
   }
@@ -36,10 +34,8 @@
   .place {
     margin-bottom: 50px;
     max-width: 320px;
-    max-height: 100%;
     grid-template-columns: 320px 1fr;
     grid-gap: 32px 0;
     grid-template-areas: "place__title" "website" "place__image" "place__paragraph";
-
   }
 }

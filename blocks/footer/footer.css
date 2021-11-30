@@ -25,5 +25,6 @@
     align-content: flex-start;
     flex-direction: column;
     max-width: 186;
+    margin: 0 auto 24px;
   }
 }

@@ -1,8 +1,7 @@
 .header__lang-list {
-  display: flex;
-  justify-content: flex-end;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  align-items: center;
+  margin-right: 18px;
+}
+
+.header__lang-list:last-child {
+  margin-right: 0;
 }
